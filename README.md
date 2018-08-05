@@ -1,4 +1,4 @@
-Ce dépôt sert à la communauté Mozilla francophone à la gestion de ses activités, nous n'y déposons aucun code, seul le système d'issues de GitHub est utilisé comme suivi de tickets, ainsi que le [wiki](../wiki).
+Ce dépôt sert à la communauté Mozilla francophone à la gestion de ses activités, nous n'y déposons aucun code, seul le système d'issues de GitHub est utilisé comme suivi de tickets, ainsi que le [wiki](https://github.com/mozfr/besogne/wiki).
 
 Les étiquettes (labels) servent à qualifier et filtrer les projets. Voici la liste des étiquettes utilisées :
 

@@ -10,5 +10,5 @@ Les étiquettes (*labels*) servent à qualifier et filtrer les projets. Voici la
 - *ne sera pas corrigé* : cette étiquette est utilisée lors de la fermeture d'un ticket rapportant un incident ou bug qui ne sera sciemment pas corrigé. Par exemple parce que le bug rapporté concerne une application prochainement supprimée.
 - *question* : ce ticket contient une proposition à discuter.
 - *traduction* : ce ticket est une tâche de traduction.
-- *Réseaux sociaux* : ce ticket est une tâche liée à nos comptes de réseaux sociaux : Twitter `@mozilla_fr` et Mastodon `@Mozilla@mamot.fr` ; par exemple la planification d'un tweet ou un travail de rédaction d'un ensemble de messages.
+- *Réseaux sociaux* : ce ticket est une tâche liée à nos comptes de réseaux sociaux : Twitter `@mozilla_fr`, Mastodon `@Mozilla@mamot.fr` et `@mozilla-fr.bsky.social` ; par exemple la planification d'un tweet ou un travail de rédaction d'un ensemble de messages.
 - *vidéo* : ce ticket est une tâche liée à notre production vidéo.
